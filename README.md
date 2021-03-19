@@ -4,9 +4,9 @@ This is the app for the Evermos Senior Engineer recruitment.
 
 Technical Documentation :
 
-Programming Language  : Kotlin
-Architecture          : Model View Presenter 
-Resource Data         : From Pexels Api (https://www.pexels.com/api/)
+- Programming Language  : Kotlin
+- Architecture          : Model View Presenter 
+- Resource Data         : From Pexels Api (https://www.pexels.com/api/)
 
 Libraries : 
 
