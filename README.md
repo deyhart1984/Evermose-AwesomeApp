@@ -16,6 +16,7 @@ Libraries :
 - Handling Dimension  : sdp-android:1.0.5
 - other libraries can be seen in gradle..
 
+Keystore Path Info : Evermose-AwesomeApp/keystore
 
 Programmer Contact :
 Email : rico.dharprinata@gmail.com
