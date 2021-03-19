@@ -1,6 +1,6 @@
-# Evermose-AwesomeApp
+# Evermos-AwesomeApp
 
-This is the app for the Evermos Senior Engineer recruitment requirements.
+This is the app for the Evermos Senior Engineer recruitment.
 
 Technical Documentation :
 
